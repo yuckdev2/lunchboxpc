@@ -1,1 +1,14 @@
+body {
+  background-color: white;
+}
 
+h1 {
+  color: pink;
+  text-align: center;
+}
+
+p {
+  font-family: Trebuchet MS;
+  color: navy;
+  text-align: center;
+}
